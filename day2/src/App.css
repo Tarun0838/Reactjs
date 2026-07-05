@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    font-size: larger;
+    font-family: sans-serif;
+    color: white;
+}
+
+.card{
+    height: 100px;
+    width: 80vw;
+    padding: 20px;
+    border-radius: 8px;
+     background-color: burlywood;
+     margin: 20px;
+}
